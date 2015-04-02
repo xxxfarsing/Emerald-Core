@@ -1,10 +1,10 @@
 # Emerald-Wow
 Wow Server Built using trinitycore & custom patches 
 
-Includes patches tailored for single player use
-Npc Bots 
-Transmogrification 
-Custom npc battles In random zones
+Includes patches tailored for single player use,
+Npc Bots, 
+Transmogrification, 
+Custom npc battles In random zones,
 No modifications to stats or levels
 
 
